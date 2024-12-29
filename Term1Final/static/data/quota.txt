@@ -1,0 +1,12 @@
+Welcome to the Term 1 Final Project. 
+These are the requirements.
+
+
+Interaction (form, button, etc.)
+use an api to get info
+use Flask to make a web server
+use use Jinja(html) or Sensehat
+--------------------------------
+Ideas:
+virtual pet (could be pokemon themed)
+virtual restaurant
