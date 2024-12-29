@@ -10,7 +10,7 @@ Project Requirements:
 
 Contains:
 - HTML + Jinja
-- Python + Flask (os, request, requests...)
+- Python + Flask (os, request...)
 - JSON + API query
 - CSS fonts
 
