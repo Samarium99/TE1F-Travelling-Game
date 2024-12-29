@@ -10,9 +10,9 @@ use use Jinja(html) or Sensehat
 
 Contains:
 - HTML
-- CSS fonts
-- JSON + API query
 - Python + Jinja
+- JSON + API query
+- CSS fonts
 
 - Very Rough Story
 
